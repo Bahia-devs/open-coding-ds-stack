@@ -38,8 +38,8 @@ node array-stack.js
 
 # Links
 
-[Introdução a Estrutura de Dados](https://www.alura.com.br/artigos/estruturas-de-dados-introducao)
-[Sobre Estrutura de Dados](https://dev.to/trinity_/estruturas-de-dados-em-javascript-com-exemplos-de-codigo-4an0)
-[Introdução a Pilhas](https://www.devmedia.com.br/pilhas-fundamentos-e-implementacao-da-estrutura-em-java/28241)
-[Aplicações de Pilhas](https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-stack/)
-[NeetCode](https://neetcode.io) (Pratique algoritmos e estruturas de dados)
+- [Introdução a Estrutura de Dados](https://www.alura.com.br/artigos/estruturas-de-dados-introducao)
+- [Sobre Estrutura de Dados](https://dev.to/trinity_/estruturas-de-dados-em-javascript-com-exemplos-de-codigo-4an0)
+- [Introdução a Pilhas](https://www.devmedia.com.br/pilhas-fundamentos-e-implementacao-da-estrutura-em-java/28241)
+- [Aplicações de Pilhas](https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-stack/)
+- [NeetCode](https://neetcode.io) (Pratique algoritmos e estruturas de dados)
